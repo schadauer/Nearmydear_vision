@@ -1,3 +1,5 @@
+[<-- Back to Vision Home](../README.md)
+
 # Nearmydear: The Human-First Collaboration Platform
 
 *"From the steam engine to the algorithm, we've been trained to collaborate with machines instead of each other. The danger now is that AI will set the goals, too. Nearmydear is built on a simple, powerful idea: let the AI run the process, but let humans define the purpose. It's a platform for human-to-human collaboration, designed to chase not machine efficiency, but human meaning."*

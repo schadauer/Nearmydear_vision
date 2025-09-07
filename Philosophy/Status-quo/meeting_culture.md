@@ -1,3 +1,5 @@
+[<-- Back to Vision Home](../../README.md)
+
 # The Anatomy of a Time-Wasting Meeting Culture
 
 The culture of excessive, time-wasting meetings is a complex and deeply ingrained problem. It's not just a matter of poor time management; it's a symptom of deeper organizational, psychological, and even historical issues.

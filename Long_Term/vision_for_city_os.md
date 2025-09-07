@@ -1,3 +1,5 @@
+[<-- Back to Vision Home](../README.md)
+
 ***A Note on This Vision:** This document outlines a long-term, "North Star" vision for the future, exploring where our core technology could lead in the next 10-20 years. The concepts described here—such as the AI City OS—are built upon the same foundational principles and open standards (like the Model Context Protocol, MCP) that are being actively developed and commercialized today by our primary business focus: **Nearmydear**. Nearmydear is the crucial first step, the "killer app" that proves the value of this new collaborative paradigm. This document explores what becomes possible once that paradigm is established.*
 
 ---
